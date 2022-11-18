@@ -60,3 +60,26 @@ Todo arquivo PHP terá a extensão .php.
     - Float ou Duble: Todo número decimal.
     - Boolean: Valor de Verdadeiro(true)/Falso(false).
 
+
+### Operadores aritméticos
+
+- +: adição
+- -: operador de subtração
+- *: operador de multiplicação
+- /: operador de divisão
+- **: exponenciação
+- %: resto da divisão, operador de módulo
+
+<br>
+<br>
+
+
+# Aula 2
+
+- Envio de informações para o PHP.
+- Operadores relacionais.
+- Operadores logicos.
+- Estrutura de decisão.
+- Redirecionamento de página.
+
+
